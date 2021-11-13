@@ -1,0 +1,61 @@
+body { 
+        background-color: #9AFFED; 
+      }
+      .header {
+        display: flex;
+        justify-content: space-between;
+      }
+      .logo {
+        padding: 20px;
+      }
+      .header-section {
+        display: inline-block;
+        position: fixed;
+        font-size: 64px;
+        font-family: Comfortaa;
+        text-align: center;
+      }
+      .home-btn {
+        list-style-type: none;
+        display: inline-block;
+      }
+      .login {
+        color: black;
+        text-decoration: none;
+        font-size: 36px;
+        position: fixed;
+        top: 400px;
+        left: 47%;
+      }
+      h1 {
+      position: fixed;
+      font-size: 48px; 
+      top: 150px;
+      left: 25%;
+      }
+      .login-btn {
+        list-style-type: none;
+        display: inline-block;
+        padding: 300px;
+      }
+      .signUp-btn {
+        list-style-type: none;
+        display: inline-block;
+        padding: 300px;
+      }
+      .login {
+        color: black;
+        text-decoration: none;
+        font-size: 36px;
+        position: fixed;
+        top: 400px;
+        left: 47%;
+      }
+      .signUp {
+        color: black;
+        text-decoration: none;
+        font-size: 36px;
+        position: fixed;
+        top: 500px;
+        left: 45.65%;
+      }
