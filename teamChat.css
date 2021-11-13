@@ -1,0 +1,159 @@
+html, body {
+      background-color: #9AFFED; 
+      display: flex;
+      justify-content: center;
+      font-family: Comfortaa, Roboto;
+      font-size: 15px;
+      }
+      .header-btn {
+      list-style-type: square type none;
+      display: inline-block;
+      }
+      .header-section {
+        display: inline-block;
+        position: fixed;
+        font-size: 64px;
+        font-family: Comfortaa;
+        top: 25px;
+        left: 25px;
+      }
+      .myPage-btn {
+        list-style-type: none;
+        display: inline-block;
+      }
+      .myPage {
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+        position: fixed;
+        top: 125px;
+        left: 5%;
+      }
+      .myTeam-btn {
+        list-style-type: none;
+        display: inline-block;
+      }
+      .myTeam {
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+        position: fixed;
+        top: 185px;
+        left: 5%;
+      }
+      .teamChat-btn {
+        list-style-type: none;
+        display: inline-block;
+      }
+      .teamChat {
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+        position: fixed;
+        top: 245px;
+        left: 5%;
+      }
+      .notifications-btn {
+        list-style-type: none;
+        display: inline-block;
+      }
+      .notifications {
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+        position: fixed;
+        top: 305px;
+        left: 5%;
+      }
+      .findTeammates-btn {
+        list-style-type: none;
+        display: inline-block;
+      }
+      .findTeammates {
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+        position: fixed;
+        top: 365px;
+        left: 5%;
+      }
+      .myAccount-btn {
+        list-style-type: none;
+        display: inline-block;
+      }
+      .myAccount {
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+        position: fixed;
+        top: 425px;
+        left: 5%;
+      }
+      .services-btn {
+        list-style-type: none;
+        display: inline-block;
+      }
+      .services {
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+        position: fixed;
+        top: 485px;
+        left: 5%;
+      }
+      .about-btn {
+        list-style-type: none;
+        display: inline-block;
+      }
+      .about {
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+        position: fixed;
+        top: 545px;
+        left: 5%;
+      }
+      .contactUs-btn {
+        list-style-type: none;
+        display: inline-block;
+      }
+      .contactUs {
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+        position: fixed;
+        top: 605px;
+        left: 5%;
+      }
+      h1 {
+      position: fixed;
+      font-size: 48px; 
+      font-family: Comfortaa;
+      top: 10px;
+      left: 41%;
+      }
+      h2 {
+      position: fixed;
+      font-size: 18px; 
+      font-family: comfortaa;
+      color: grey;
+      top: 20%;
+      left: 28%;
+      }
+      h3 {
+      position: fixed;
+      font-size: 18px; 
+      font-family: comfortaa;
+      color: grey;
+      top: 30%;
+      left: 28%;
+      }
+      h4 {
+      position: fixed;
+      font-size: 18px; 
+      font-family: comfortaa;
+      color: grey;
+      top: 65%;
+      left: 28%;
+      }
+      
